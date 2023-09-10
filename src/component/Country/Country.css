@@ -1,0 +1,16 @@
+.cart{
+     border: 2px solid black;
+     text-align: center ;
+     border-radius:20px ;
+}
+.button{
+     margin-bottom: 10px;
+     padding:10px 26px ;
+     font-size: 20px;
+     font-weight: 500;
+     border-radius: 10px;
+}
+.visited{
+     background-color: aquamarine;
+     color: black;
+}
